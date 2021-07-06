@@ -1,0 +1,40 @@
+.text-area{
+    width: 500px;
+    height: 200px;
+    margin: 50px auto;
+    border: solid 2px black;
+    padding: 15px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 25px;
+}
+
+.input-area{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.input-text{
+    width: 300px;
+    height: 60px;
+    margin-bottom: 30px;
+    background: rgb(221, 219, 219);
+    border: none;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.btn{
+    width: 300px;
+    border: none;
+    background: rgb(221, 219, 219);
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background: rgb(133, 132, 132);
+}
